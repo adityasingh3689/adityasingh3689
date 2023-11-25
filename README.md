@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adityasingh3689
+- 👋 Hi, I’m @adi
 - 👀 I’m interested in coding, editing, web developing, programming,software cracking.
 - 🌱 I’m currently learning c, c++, java
 - 💞️ I’m looking to collaborate with ethical hackers
